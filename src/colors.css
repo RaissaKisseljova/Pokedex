@@ -1,0 +1,52 @@
+:root {
+  --normal: rgba(235, 204, 142, 0.835);
+  --fighting: rgba(221, 88, 88, 0.835);
+  --flying: rgba(175, 100, 225, 0.667);
+  --poison: rgba(165, 92, 205, 0.835);
+  --ground: rgba(235, 207, 142, 0.511);
+  --rock: rgba(203, 140, 95, 0.749);
+  --bug: rgba(156, 235, 142, 0.835);
+  --ghost: rgba(203, 142, 235, 0.835);
+  --steel: rgba(145, 148, 146, 0.835);
+  --fire: rgba(235, 142, 142, 0.835);
+  --water: rgba(142, 235, 215, 0.835);
+  --grass: rgba(144, 232, 123, 0.835);
+  --electric: rgba(235, 230, 142, 0.835);
+  --psychic: rgba(235, 142, 221, 0.835);
+  --ice: rgba(142, 235, 234, 0.835);
+  --dragon: rgba(149, 95, 203, 0.831);
+  --dark: rgba(148, 147, 144, 0.928);
+  --fairy: rgba(235, 142, 230, 0.42);
+  --unknown: rgba(247, 243, 233, 0.928);
+  --shadow: rgba(247, 233, 243, 0.928);
+
+  --normal-label: #fceeee;
+  --fighting-label: #d9743b ;
+  --flying-label: rgba(253, 226, 154, 0.928);
+  --poison-label: #b262cb;
+  --ground-label: #ab9842;
+  --rock-label: #80631be6;
+  --bug-label: #719f3e;
+  --ghost-label: #7b62a3;
+  --steel-label: rgba(0, 0, 0, 0.43);
+  --fire-label: #f17d26;
+  --water-label: #4592c5;
+  --grass-label: #47ab57;
+  --electric-label: #eed535;
+  --psychic-label: #d69fc0;
+  --ice-label: rgba(228, 255, 255, 0.961);
+  --dragon-label: #9af6e5;
+  --dark-label: rgba(148, 147, 144, 0.27);
+  --fairy-label: rgba(242, 159, 224, 0.928);
+  --unknown-label: rgba(247, 243, 233, 0.195);
+  --shadow-label: rgba(247, 233, 243, 0.928);
+
+
+  --HP: #f93131;
+  --ATTACK: #294dec;
+  --DEFENSE: #15ce33;
+  --SPECIAL-ATTACK: #fdae10;
+  --SPECIAL-DEFENSE: #ff7d2c;
+  --SPEED: #de70ff;
+
+}
